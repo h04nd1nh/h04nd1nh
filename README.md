@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinh Van Duc Hoan</h1>
-<h3 align="center">A Software developer from Viet Nam</h3>
+<h3 align="center">A Software Developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h04nd1nh&label=Profile%20views&color=0e75b6&style=flat" alt="h04nd1nh" /> </p>
 
