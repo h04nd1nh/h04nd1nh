@@ -2,10 +2,6 @@
 <h3 align="center">A Software Developer from Viet Nam</h3>
 
 
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **hoandinh.work@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/h04nd1nh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="h04nd1nh" height="30" width="40" /></a>
